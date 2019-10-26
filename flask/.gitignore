@@ -1,0 +1,3 @@
+
+# ignore any temp Python files
+*.pyc

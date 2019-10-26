@@ -1,0 +1,8 @@
+[package]
+name = "actix"
+version = "1.0.0-beta"
+authors = ["alepalro"]
+edition = "2018"
+
+[dependencies]
+actix-web = "1.0.3"
