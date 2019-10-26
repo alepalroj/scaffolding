@@ -1,4 +1,4 @@
-# Atrix Hello World
+# Actix Hello World
 
 This project is intended to be a starting point for a basic Hello World.
 
