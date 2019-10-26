@@ -14,6 +14,7 @@ This is the beginning of the scaffolding of different micro frameworks, framewor
 * https://jooby.io
 * https://ktor.io
 * https://nodejs.org
+* https://www.playframework.com
 * https://restlet.com
 * https://spring.io
 * https://www.tornadoweb.org
